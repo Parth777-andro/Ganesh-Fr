@@ -45,7 +45,7 @@
            "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l9.png",
             "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l10.png",
              "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l11.png",
-              "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l112.png",
+              "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l12.png",
                "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l13.png",
                 "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l14.png",
                  "https://raw.githubusercontent.com/Parth777-andro/Ganesh-Fr/master/Pic/l15.png",
